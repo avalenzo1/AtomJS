@@ -28,7 +28,7 @@ var spriteObj = new Atom.Player
   coordinates.y,
   40,
   120,
-  "./media/sprite.png",
+  "https://raw.githubusercontent.com/avalenzo1/AtomJS/main/media/Sprite.png",
   entities.player_1.cycles,
   entities.player_1.controls,
   entities.player_1.cyclesBindingKeys,
